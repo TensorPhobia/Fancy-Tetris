@@ -1,5 +1,5 @@
 # Note
-While FancyTetris is fully functional, it's important to acknowledge that there are some incomplete aspects, particularly concerning Unicode compatibility with ncurses. If you're adept at working with Unicode and ncurses and would like to contribute to improving FancyTetris, your help would be greatly appreciated! Feel free to dive into the code and submit pull requests with your fixes and enhancements. Together, let's make FancyTetris even better!
+While FancyTetris is partially functional, it's important to acknowledge that there are some incomplete aspects, particularly concerning Unicode compatibility with ncurses. If you're adept at working with Unicode and ncurses and would like to contribute to improving FancyTetris, your help would be greatly appreciated! Feel free to dive into the code and submit pull requests with your fixes and enhancements. Together, let's make FancyTetris even better!
 
 
 # Fancy Tetris
